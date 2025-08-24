@@ -6,7 +6,8 @@ Full-stack (Node/Express + React/Vite/Tailwind) que combina **clima** (OpenWeath
 - Backend: Node.js, Express, Axios, dotenv, CORS
 - Frontend: React + Vite + Tailwind v4
 - APIs: OpenWeatherMap, NewsAPI/GNews
-<img width="970" height="923" alt="image" src="https://github.com/user-attachments/assets/baa6af1e-aac5-42dc-93da-94049bde4067" />
+<img width="1899" height="1011" alt="image" src="https://github.com/user-attachments/assets/7c8516c0-0184-489e-b756-0ef084203b6c" />
+
 
 ## Ejecutar en local
 ```bash
