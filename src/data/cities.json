@@ -1,0 +1,11 @@
+[
+  { "name": "San Salvador", "country": "SV" },
+  { "name": "Santa Ana", "country": "SV" },
+  { "name": "San Miguel", "country": "SV" },
+  { "name": "Guatemala City", "country": "GT" },
+  { "name": "Tegucigalpa", "country": "HN" },
+  { "name": "Ciudad de México", "country": "MX" },
+  { "name": "Bogotá", "country": "CO" },
+  { "name": "Buenos Aires", "country": "AR" },
+  { "name": "Madrid", "country": "ES" }
+]
